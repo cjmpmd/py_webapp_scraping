@@ -1,0 +1,9 @@
+python-dotenv
+urllib3
+beautifulsoup4
+selenium
+pandas
+keyboard
+webdriver-manager
+openpyxl
+chromedriver-autoinstaller

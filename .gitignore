@@ -1,0 +1,16 @@
+__pycache__
+audit nu/
+results/
+a_TOADD.PY
+
+Audit.html
+Audit.xlsx
+
+chromedriver_win32.zip
+chromedriver.exe
+
+.env
+vitals_mod.original.py
+main_manager.py
+flfcaser_webpi.py
+flfcaser.py
