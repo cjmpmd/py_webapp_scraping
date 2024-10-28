@@ -31,5 +31,6 @@ The webapp provided, by a former employer (not disclosed), to manage our workloa
 - Chrome versioning and the chrome driver compatibility may vary, you might be required to downgrade your browser
 
 #### Disclaimer:
-This project was developed with the sole purpose to continue learning python, API integration and to streamline repetitive tasks. 
-Although are a lot of improvements and optimazion refactoring that can be done, this project is archived and no longer in use.
+This project was developed with the sole purpose to continue learning python, web and API development and to streamline repetitive tasks. 
+
+Although there are a lot of improvements and optimazion refactoring that can be done, this project is archived and no longer in use.
