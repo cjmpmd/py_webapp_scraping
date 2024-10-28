@@ -29,3 +29,7 @@ The webapp provided, by a former employer (not disclosed), to manage our workloa
 - The file 'requirements.txt' contains the external packages
 - The Chrome driver is required and not included (download the proper according to your OS and current Chrome Version)
 - Chrome versioning and the chrome driver compatibility may vary, you might be required to downgrade your browser
+
+#### Disclaimer:
+This project was developed with the sole purpose to continue learning python, API integration and to streamline repetitive tasks. 
+Although are a lot of improvements and optimazion refactoring that can be done, this project is archived and no longer in use.
