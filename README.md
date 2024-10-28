@@ -4,11 +4,11 @@
 This was a local project that aimed to streamline the job I used to work at. 
 
 #### Scope
-The webapp provided, by a former employer (not disclosed), to manage owr workload was slow, poorly designed and unoptimized.
+The webapp provided, by a former employer (not disclosed), to manage our workload was slow, poorly designed and un-optimized.
 #### Challenges Addressed
 -Long processing queue from the network request to HTML rendering.
 
--The DOM inspection revealed the paged loaded the full case on-request and each update triggered an Ajax call to perfom CRUD and, afterwards, reloaded the entire site. This, as well as JS rendered dynamic contents and a deeply nested DOM tree created a really bad user experience and hindered performance
+-The DOM inspection revealed the paged loaded the full case on-request and each update triggered an Ajax call to perform CRUD and, afterwards, reloaded the entire site. This, as well as JS rendered dynamic contents and a deeply nested DOM tree created a really bad user experience and hindered performance
 
 ### Temporary Solution
 - Phase 1: Web scraping script developed to trigger a data export from the work site to a local document for inspection.
@@ -20,7 +20,7 @@ The webapp provided, by a former employer (not disclosed), to manage owr workloa
 - This is for demonstration purposes only.
 - This is being published on request by the interested party. 
 
-#### This may not excecute due to:
+#### This may not execute due to:
 - Latest refactoring due to privacy concerns
 - Login access was granted with the company's intranet and AD.
 - No testing was performed 'Post-Privacy Refactoring' 
